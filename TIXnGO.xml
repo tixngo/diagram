@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-26T16:34:08.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="rhj_It63BLSwURvbvu5z" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-26T16:35:43.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Fw2_GdFdYAs5IU7gA8M1" version="12.9.3" type="github">
   <diagram id="w649-lzF02Topk-QuJQv" name="Page-1">
-    <mxGraphModel dx="1489" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,6 +280,24 @@
         </mxCell>
         <mxCell id="rpu2huTMNR0wiN7m-fNE-25" value="Resell Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="879.5" y="735" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rpu2huTMNR0wiN7m-fNE-29" value="Navigator" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60.5" y="765" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rpu2huTMNR0wiN7m-fNE-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rpu2huTMNR0wiN7m-fNE-29" target="rpu2huTMNR0wiN7m-fNE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rpu2huTMNR0wiN7m-fNE-34" value="Transactions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="51" y="855" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rpu2huTMNR0wiN7m-fNE-36" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rpu2huTMNR0wiN7m-fNE-37" target="rpu2huTMNR0wiN7m-fNE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rpu2huTMNR0wiN7m-fNE-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rpu2huTMNR0wiN7m-fNE-37" target="rpu2huTMNR0wiN7m-fNE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rpu2huTMNR0wiN7m-fNE-37" value="Pending Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60.5" y="735" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
