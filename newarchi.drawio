@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T09:36:47.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="WkXqFEBp3FuySNKsHl0P" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T10:23:12.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="jrHiqxkW43V-0FWAnfZj" version="12.9.10" type="github">
   <diagram id="vZ2q2Lyvlgi1SDBOcN5u" name="Page-1">
     <mxGraphModel dx="1248" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="480" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NtAfsmwFFrSSaD4eCqGA-19" value="File Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="180" width="110" height="40" as="geometry" />
+          <mxGeometry x="510" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NtAfsmwFFrSSaD4eCqGA-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NtAfsmwFFrSSaD4eCqGA-21" target="NtAfsmwFFrSSaD4eCqGA-26">
           <mxGeometry relative="1" as="geometry">
@@ -87,7 +87,26 @@
           <mxGeometry x="350" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NtAfsmwFFrSSaD4eCqGA-36" value="Analytics Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="120" width="110" height="40" as="geometry" />
+          <mxGeometry x="710" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NtAfsmwFFrSSaD4eCqGA-38" style="edgeStyle=none;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;" edge="1" parent="1" source="NtAfsmwFFrSSaD4eCqGA-37" target="NtAfsmwFFrSSaD4eCqGA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtAfsmwFFrSSaD4eCqGA-37" value="User Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NtAfsmwFFrSSaD4eCqGA-39" value="Bluetooth Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NtAfsmwFFrSSaD4eCqGA-41" style="edgeStyle=none;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;" edge="1" parent="1" source="NtAfsmwFFrSSaD4eCqGA-40" target="NtAfsmwFFrSSaD4eCqGA-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtAfsmwFFrSSaD4eCqGA-40" value="Activation Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="515" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
